@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=coderRKJ&label=Profile%20views&color=brightgreen&style=plastic" alt="st1llwater" /> </p>
 
-- 🔭 I’m currently working on **My Portfolio Page**
+- 🔭 I’m currently working on **Building a Flutter Application**
 
 - 🌱 I’m currently learning **ML in Python, Flutter, Rust, Node.js**
 
