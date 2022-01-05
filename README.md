@@ -3,13 +3,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=coderRKJ&label=Profile%20views&color=brightgreen&style=plastic" alt="st1llwater" /> </p>
 
-- 🔭 I’m currently working on **Building a DevDays Flutter Application and building an algorithm for the Robonav Contest**
+- 🔭 I’m currently working on **Building a Flutter Application and building an algorithm for the Robonav Contest**
 
-- 🌱 I’m currently learning **ML in Python, Flutter, Rust, Node.js**
+- 🌱 I’m currently learning **ML in Python, Flutter, Node.js**
 
 - 💬 Ask me about **Python, Flask Framework, SQL**
 
-- 📫 How to reach me **Discord: RahulKurianJacob#6190**
+- 📫 How to reach me **Discord: RahulKurianJacob#6190, Telegram: [coderRKJ](https://t.me/coderRKJ)** 
 
 - ⚡ Fun fact **On September 9, 1947, the world's first computer bug was recorded by Grace Hopper. But this was no ordinary 'software bug' as it was a real-life moth that was causing the issues with the computer's hardware.**
 
