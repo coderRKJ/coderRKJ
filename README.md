@@ -34,7 +34,7 @@
   <a href="https://www.postgresql.org" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
   <a href="https://www.figma.com/" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> </a>
   <a href="https://www.rust-lang.org/" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://nodejs.org" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://vuejs.org" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/> </a>
   <a href="https://dart.dev/" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/></a>
   <a href="https://flutter.dev/" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/></a>
