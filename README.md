@@ -3,9 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=coderRKJ&label=Profile%20views&color=brightgreen&style=plastic" alt="st1llwater" /> </p>
 
-- 🔭 I’m currently working on **Building a Flutter Application and building an algorithm for the Robonav Contest**
+- 🔭 I’m currently working on **Shaastra Kick-off contest and building an algorithm for the Robonav Contest**
 
-- 🌱 I’m currently learning **ML in Python, Flutter, Node.js**
+- 🌱 I’m currently learning **ML in Python, Flutter, Vue.js**
 
 - 💬 Ask me about **Python, Flask Framework, SQL**
 
@@ -35,6 +35,7 @@
   <a href="https://www.figma.com/" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> </a>
   <a href="https://www.rust-lang.org/" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/></a>
   <a href="https://nodejs.org" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://vuejs.org" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/> </a>
   <a href="https://dart.dev/" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/></a>
   <a href="https://flutter.dev/" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
