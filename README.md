@@ -3,9 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=coderRKJ&label=Profile%20views&color=brightgreen&style=plastic" alt="st1llwater" /> </p>
 
-- 🔭 I’m currently working on **Shaastra Kick-off contest and building an algorithm for the Robonav Contest**
+- 🔭 I’m currently working on **Shaastra Kick-off contest and learning OpenCV**
 
-- 🌱 I’m currently learning **ML in Python, Flutter, Vue.js**
+- 🌱 I’m currently learning **ML in Python, Flutter, Vue.js and OpenCV**
 
 - 💬 Ask me about **Python, Flask Framework, SQL**
 
