@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=coderRKJ&label=Profile%20views&color=brightgreen&style=plastic" alt="st1llwater" /> </p>
 
-- 🔭 I’m currently working on **Shaastra Kick-off contest and learning OpenCV**
+- 🔭 I’m currently working on **Learning OpenCV and Vue.js**
 
 - 🌱 I’m currently learning **ML in Python, Flutter, Vue.js and OpenCV**
 
